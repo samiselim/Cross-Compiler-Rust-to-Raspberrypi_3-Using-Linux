@@ -1,7 +1,7 @@
 By Sami Abdelaziz Selim
 # Cross Compiler Rust to Raspberrypi_3 Using Linux.
 
-## > First of all need to install dependencies for u-boot 
+## > First of all need to install dependencies 
  
 ```
 sudo apt update
